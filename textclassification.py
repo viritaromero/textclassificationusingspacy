@@ -18,7 +18,7 @@ df.head()
 df = df[['name','reviews.text']]
 df.head()
 
-#Show the number of rows and field
+#Show the number of rows and fields
 df.shape
 
 #Show how many null values has the dataframe
